@@ -18,7 +18,6 @@ class ControleRemoto:
         return f'{'[black on green]     [/]'*self.volume_atual}{'[black on white]     [/]'*(5-self.volume_atual)}'
 
 
-
     def logica_init(self):
         r = ''
         while True:
@@ -55,6 +54,7 @@ class ControleRemoto:
                 quebrarlinha(10)
                 if r[-1] == '0':
                     return
+
 
 c = ControleRemoto()
 c.logica_init()
