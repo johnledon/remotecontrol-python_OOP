@@ -12,7 +12,7 @@ Um projeto interativo de terminal construído em Python, focado em **Programaç�
 * Tratamento de erros e comandos inválidos para evitar que o programa quebre.
 
 ## 📸 Demonstração
-<img width="382" height="382" alt="image" src="https://github.com/user-attachments/assets/05968e00-cf07-4ad8-bade-ad2d669313e8" />
+<img width="382" height="382" alt="ezgif-3843795e9d45e636" src="https://github.com/user-attachments/assets/9bfa1f82-d53f-4c61-8641-054977af2ea0" />
 
 
 ## 🛠️ Tecnologias Utilizadas
